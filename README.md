@@ -8,6 +8,9 @@ I work with data mostly in R and Python.
 I program economic experiments using [otree](https://otree.readthedocs.io/en/latest/)
 
 This is my [CV](CV english_p.pdf)
+
+
+
 ____
 
 You can use the [editor on GitHub](https://github.com/rafaelcharris/rafaelcharris.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
