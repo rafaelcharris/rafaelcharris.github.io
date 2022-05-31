@@ -5,3 +5,10 @@ title: Personal Website
 
 # Your name to show in the footer
 author: Rafael Charris
+
+navbar-links:
+  About Me: "aboutme"
+  My Blog: UnbiasedDataBlog.github.io
+  Resources:
+  - Learn markdown: "https://www.markdowntutorial.com/"
+
