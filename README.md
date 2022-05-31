@@ -1,14 +1,13 @@
 ## Welcome!
 
 
-I'm Rafael! I'm currently a masters student at Chapman University.
+I'm Rafael!  I graduated from a masters in Behavioral and Computational Economics at Chapman University.
 
 I work with data mostly in R and Python.
 
 I program economic experiments using [otree](https://otree.readthedocs.io/en/latest/)
 
 This is my [CV](CV english_p.pdf)
-
 
 
 ____
