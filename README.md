@@ -7,7 +7,7 @@ I work with data mostly in R and Python.
 
 I program economic experiments using [otree](https://otree.readthedocs.io/en/latest/)
 
-This is my [CV](CV english_p.pdf)
+This is my [CV](CVExtended.pdf)
 
 
 ____
