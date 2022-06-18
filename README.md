@@ -1,7 +1,7 @@
 ## Welcome!
 
 
-I'm Rafael!  I graduated from a masters in Behavioral and Computational Economics at Chapman University.
+I'm Rafael!  I am a data scientist.
 
 I work with data mostly in R and Python.
 
@@ -9,7 +9,7 @@ I program economic experiments using [otree](https://otree.readthedocs.io/en/lat
 
 This is my [CV](CVExtended.pdf)
 
-
+Get my me at: rafaelcharris92@gmail.com
 ____
 
 You can use the [editor on GitHub](https://github.com/rafaelcharris/rafaelcharris.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
